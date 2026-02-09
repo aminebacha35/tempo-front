@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/ButtonPrimary.js", "components/Header.js", "app/index.js", "app/signup/step2.js", "app/signup/step1.js", "app/signup/step3.js", "app/signup/step4.js", "app/completed.js"  ]
 }
